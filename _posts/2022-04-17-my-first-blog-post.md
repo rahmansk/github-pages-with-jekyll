@@ -1,1 +1,4 @@
-<h1>Hello</h1>
+---
+title: "Welcome to Mr. Shareff Blog"
+date: 2022-04-17
+---
